@@ -1,6 +1,6 @@
 ToDo List App
 
-git remote add origin https://github.com/YOUR_USERNAME/user-fetch-app.git
+A simple React + TypeScript app to manage a list of tasks.
 
 🚀 Setup & Run
 
